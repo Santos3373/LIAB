@@ -1,2 +1,2 @@
-# LIAB
-ESTE ESTE REPOSITORIO CONTIENE DATOS DE LA BANDA
+# LIAB2
+Creando datos de todos los alumnos del instituto Ipef
